@@ -247,35 +247,35 @@ https://streamango.com/f/omspqcpcdkfqlsor
 348350
 C-YZiAXcbY8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBKHsO4kCIZOT8hRlGagKDL8sSF.jpg", Han Solo: Una Historia de Star Wars (2018)[Rapidvideo]
-https://uid04x0cs0.playercdn.net/88/0/Z9DHh0mcaYYF6d-_0amjFA/1553466715/190316/969G15DQJ796OXJRIIUID.mp4
+https://www.rapidvideo.com/v/G0ONF1K7O3
 348350
 C-YZiAXcbY8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muBA2zdXAjrqd9fehykSjScL5Aw.jpg", Ocean's 8 (2018)[Rapidvideo]
-https://kducnr355g.playercdn.net/88/0/2dv_1caILANQ3ZpVyRpwaA/1553466658/190108/435FYZB0HGHML7M4GNTJR.mp4
+https://www.rapidvideo.com/v/FYYF4L3UGA
 402900
 nbik-xhNt1U
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jx3URmImNMCZuXcfdLM7S5Pivzy.jpg",  Deadpool 2 (2018)[Rapidvideo]
-https://streamango.com/f/boqoarccprbtnlqc
+https://www.rapidvideo.com/v/G0NP23CA91
 383498
 U6VMFwS2mPk
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YcjGJtW4AEHyNH8yrs8FAaPBM.jpg", 12 valientes (2018)[Rapidvideo]
-https://bgoyp1sdf8.playercdn.net/88/3/O29qgQoorpdlLky1t8zlSA/1553466802/180824/9Bc414KeIs940Ig.mp4
+https://www.rapidvideo.com/v/FUL4X77S57
 429351
 FmRQQFAPmG8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugzaRtgrf2MBCUawgiE6xayXXIE.jpg",  Gun Shy (2017)[Rapidvideo]
-https://mejc13fcn3.playercdn.net/88/3/j4WLA2TmI5APscng2nQDRA/1553467013/180820/xpFxPezJy8slNRf.mp4
+https://www.rapidvideo.com/v/FUGJHU2G5T
 430682
 NNzS4WeACwQ
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDLmMzkaFMFWF1UnnlboMfifVXM.jpg",  Vengadores: Infinity War (2018)[Rapidvideo]
-https://pzmt2cy5zj.playercdn.net/88/0/XwpV-Wye7zZvHnPd-qGGBg/1553467112/190322/131G1BCKHU796FQ6099OJ.mp4
+https://www.rapidvideo.com/v/G0ONMBBU3T
 299536
 -f5PwE_Q8Fs
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OAnIfMibW3GeNNItTqL2ynuJqj.jpg",  Juego de ladrones (El atraco perfecto) (2018)[Rapidvideo]
-https://06nvcmg1ey.playercdn.net/88/0/6rTR8SvKsw54tlhGaX4inw/1553467213/180801/QS3eKSyfMRay1gc.mp4
+https://www.rapidvideo.com/v/FTUUDGP920
 449443
 KdBDHxaHyvE
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2aTsJIyw762XO51fcGa7couMygv.jpg",  Proyecto Rampage (2018)[Rapidvideo]
-https://o8tps8t7po.playercdn.net/88/1/QLjdCewOucCBH23QFncBEg/1553467393/180719/0Tmnw6vL3cH06lw.mp4
+https://www.rapidvideo.com/v/FTD8G58MNA
 427641
 82VRA1EjFqg
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GmPXcuD8RFoivUaGay7j5cPURl.jpg",  24 horas para vivir (2017)[Streamgo]
@@ -283,15 +283,15 @@ https://streamango.com/f/qppfckennccddono
 470114
 6tD42STWGoU
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ivdmrdfkrzdrr106vzWFR65k7R.jpg",  Noche de juegos (2018)[Rapidvideo]
-https://rgctsmbil1.playercdn.net/88/2/88fb05BmsuWZfp22_9wvxg/1553467438/180709/zEHYyxgqHyVN7iR.mp4
+https://www.rapidvideo.com/v/FT42TGJ44S
 445571
 oDcq4GBOaTg
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/saGWJakrh321Lnr6x2LDfIX7FSG.jpg",  Tomb Raider (2018)[Rapidvideo]
-https://1jd1csdt8q.playercdn.net/88/2/dobA19-dJXbAKdXGqNrfKg/1553468420/180707/LeCKqJ7p5FC9aBY.mp4
+https://www.rapidvideo.com/v/FT207CL95Z
 338970
 phsWSladwOI
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2iuVrtC5IpwLtSFSgkIIIKLs0Zq.jpg",  Ready Player One (2018)[Rapidvideo]
-https://dwdr0gfr0u.playercdn.net/88/0/SXvwDitiDm_qcY7RmpGuhw/1553468448/190117/133FZ9CZEDNJGRMLP6XEK.mp4
+https://www.rapidvideo.com/v/FZ9AIIKYG0
 333339
 J0ZKannF6l4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8iFBvaVYnuK89gfAxsD9ZnRrfc.jpg",  Pacific Rim: Insurrección (2018)[Rapidvideo]
